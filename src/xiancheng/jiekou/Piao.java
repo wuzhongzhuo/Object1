@@ -13,8 +13,8 @@ public class Piao extends Thread {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			System.out.println(getName()+"已卖出"+count1+"张票");
-			count1--;
+			/*System.out.println(getName()+"已卖出"+count1+"张票");
+			count1--;*/
 		}
 	}
 }
